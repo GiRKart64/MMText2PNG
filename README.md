@@ -18,4 +18,4 @@ Other characters have not been tested yet. If you want to see which characters h
 Button characters (A, B, L, R, Z and C buttons) are automatically generated however they have not been tested how they look in the game yet. No soultion for final two characters (target and control stick) as yet but images will still be generated which you can edit manually for now.
 
 ## More Notes
-Scaling will attempt to adjust font sizes to match scaling factor and currently will produce flakey results.
+Scaling will attempt to adjust font sizes to match scaling factor and currently can produce flakey results.
